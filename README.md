@@ -49,15 +49,20 @@ The website provides a smooth shopping experience with product browsing, order m
 
 
 ### Home Page
-<img width="1058" height="585" alt="image" src="https://github.com/user-attachments/assets/39a72b7a-b1a0-4c16-883f-ecd7f78fe916" />
+<img width="1058" height="585" alt="homepage" src="https://github.com/user-attachments/assets/e3a8a8e1-f6ef-4a34-aaac-15e62d985c61" />
 
 
 ### Products
-<img width="1069" height="576" alt="image" src="https://github.com/user-attachments/assets/aa96e350-f62c-458e-b14b-fa8287b108ae" />
+<img width="1069" height="576" alt="products" src="https://github.com/user-attachments/assets/299e90f1-9418-407c-8ebd-120fbdf54397" />
+
+
+### About Me Page
+<img width="849" height="432" alt="aboutme" src="https://github.com/user-attachments/assets/11f32eaa-448a-4e9a-add3-c43d20ee8633" />
 
 
 ### Admin Dashboard
-<img width="1322" height="588" alt="image" src="https://github.com/user-attachments/assets/050e2201-5a63-4b2e-a588-a4642ccf2a85" />
+<img width="1333" height="474" alt="admin" src="https://github.com/user-attachments/assets/2bca75b1-2d72-47ee-ba1b-fe752cd0e2e3" />
+
 
 
 ---
