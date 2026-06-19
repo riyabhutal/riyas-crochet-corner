@@ -120,9 +120,7 @@ export function CheckoutModal({ product, onClose, onOrderPlaced }: Props) {
 
   const UPI_PA = "riyabhutal@okaxis";
 
-  const upiLink = `upi://pay?pa=${UPI_PA}&pn=Riya%20Bhutal%20Subhash&am=${product.priceNum}&cu=INR&tn=${encodeURIComponent(
-    product.name
-  )}&mc=5945`;
+ const upiLink = `upi://pay?pa=${UPI_PA}&pn=Riya%20Bhutal%20Subhash&am=${product.priceNum}&cu=INR&tn=${encodeURIComponent(product.name)}`;
 
   const fmt = (n: number) => `₹${n.toLocaleString("en-IN")}`;
 
