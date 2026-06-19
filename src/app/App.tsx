@@ -34,12 +34,12 @@ export default function App() {
     );
 
     setOrders((prev) =>
-      prev.map((o) =>
-        o.id === id
-          ? { ...o, status }
-          : o
-      )
-    );
+  prev.map((o) =>
+    o.firestoreId === id
+      ? { ...o, status }
+      : o
+  )
+);
   } catch (error) {
     console.error(
       "Error updating order:",
