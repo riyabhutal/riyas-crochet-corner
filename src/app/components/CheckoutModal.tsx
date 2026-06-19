@@ -118,7 +118,7 @@ export function CheckoutModal({ product, onClose, onOrderPlaced }: Props) {
 
   if (!product) return null;
 
-  const UPI_PA = "riyabhutal@gmail.com";
+  const UPI_PA = "riyabhutal@okaxis";
 
   const upiLink = `upi://pay?pa=${UPI_PA}&pn=Riya%20Bhutal%20Subhash&am=${product.priceNum}&cu=INR&tn=${encodeURIComponent(
     product.name
