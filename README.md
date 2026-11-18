@@ -1,4 +1,7 @@
-# 🧶 Riya's Crochet Corner
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&duration=3000&pause=1000&color=E89AB5&center=true&vCenter=true&width=700&lines=Riya's+Crochet+Corner;Handmade+with+Love+%E2%99%A1;Every+Stitch+Tells+a+Story" />
+</div>
 
 A creative and responsive crochet e-commerce website showcasing handmade crochet products. Riya's Crochet Corner is designed to provide a simple and attractive shopping experience where visitors can explore handmade crochet creations.
 
